@@ -1,2 +1,2 @@
 # nextjs-practice
-nextjs practice repository
+faker is the best mid in the world
